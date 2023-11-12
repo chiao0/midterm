@@ -9,40 +9,31 @@ body {
 
 header {
     background-color: #9AB0BA;
-
-}
-
-.header1 {
-    background-color: #9AB0BA;
     color: white;
-    text-align: left;
+    text-align: center;
     padding: 20px;
     margin: 0px;
-}
 
-.header2 {
-    background-color: #9AB0BA;
-    color: white;
-    text-align: right;
-    padding: 20px;
-    margin: 0px;
 }
 
 nav {
     background-color: #B7CECE;
     font-family: Arial;
     text-align: center;
+
 }
 
-header a {
+
+nav a {
     padding: 14px 16px;
     display: inline-block;
 }
 
-header a:hover {
-    background-color: #B7CECE;
+nav a:hover {
+    background-color: #69a4bf;
     color: white;
 }
+
 
 footer {
     background-color: #9AB0BA;
@@ -60,12 +51,15 @@ main {
     padding: 20px;
     margin: 20px 10px;
     border-radius: 15px;
-    background-image: url(image/card_img.jpg);
+    background-image: url(image/card.jpg);
     background-size: cover;
 }
 
+
+
+
 article {
-    float: left;
+    float: right;
     width: 73%;
 }
 
