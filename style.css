@@ -35,11 +35,13 @@ nav a:hover {
 }
 
 
+
 footer {
     background-color: #9AB0BA;
     color: #444444;
     text-align: center;
-    padding: 10px;
+    padding: 7px 7px;
+    ;
 }
 
 main {
@@ -51,7 +53,7 @@ main {
     padding: 20px;
     margin: 20px 10px;
     border-radius: 15px;
-    background-image: url(image/card.jpg);
+    background-image: url(image/background/card.jpg);
     background-size: cover;
 }
 
