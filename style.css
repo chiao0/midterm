@@ -68,15 +68,17 @@ main {
 
 h2 {
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
     font-family: 標楷體;
-    color: #507DBC;
+    color: white;
+    background-color: #69a4bf;
 }
 
 h3 {
     text-align: left;
     font-size: 30px;
     color: #617185;
+
 }
 
 h4 {
@@ -162,7 +164,7 @@ aside {
     text-align: center;
     position: relative;
     color: #617185;
-    font-size: 32px;
+    font-size: 30px;
     padding: 20px;
     font-family: 'Noto Sans TC', sans-serif;
     font-weight: bold;
@@ -187,4 +189,10 @@ aside {
 
 .clearfix {
     clear: both;
+
+}
+
+.contact {
+    color: white;
+    font-family: 微軟正黑體;
 }
